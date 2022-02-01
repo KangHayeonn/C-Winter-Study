@@ -25,8 +25,8 @@
 |7주차|재귀/백트래킹/순열·조합| [송승민](https://github.com/SoNgSeUNgMiN96) |
 |8주차|DFS/BFS| [강하연](https://github.com/KangHayeonn) |
 |9주차|분할정복(합병정렬)| [김민표](https://github.com/rabbitate) |
-|10주차|그래프와 탐색| [김기찬](https://github.com/Kichan01) |
-|11주차|최단 경로| [박주한](https://github.com/ParkJuhan94) |
+|10주차|최단 경로| [김기찬](https://github.com/Kichan01) |
+|11주차|그래프와 탐색| [박주한](https://github.com/ParkJuhan94) |
 |12주차|동적 계획법(DP)| [강하연](https://github.com/KangHayeonn) |
 
 
